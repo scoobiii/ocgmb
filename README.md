@@ -377,7 +377,7 @@ Este guia é fornecido sob a licença MIT. Sinta-se livre para usar, modificar e
 
 ---
 
-**Autor:** Manus AI  
+**Autor:** gos3 gang of seven senior scrum agile team
 **Versão:** 1.0  
 **Data:** Fevereiro de 2026  
 **Estilo:** Use a Cabeça! (Head First)
